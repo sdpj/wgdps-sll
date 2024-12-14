@@ -1,0 +1,18 @@
+{
+    "id": 14412,
+    "name": "very hard map",
+    "author": "ZohMyGoodness",
+    "creators": ["ZohMyGoodness"],
+    "verifier": "Solo_Creator",
+    "verification": "https://www.youtube.com/watch?v=peXU-XZiemc",
+    "percentToQualify": "100",
+    "password": "1339",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
