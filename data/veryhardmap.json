@@ -1,0 +1,18 @@
+{
+    "id": 23520,
+    "name": "very hard map",
+    "author": "reject",
+    "creators": ["kit"],
+    "verifier": "Solo_Creator",
+    "verification": "https://www.youtube.com/watch?v=pIUv74Am9i8",
+    "percentToQualify": "100",
+    "password": "2122",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
