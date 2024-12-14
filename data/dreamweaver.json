@@ -1,0 +1,18 @@
+{
+    "id": 12007,
+    "name": "Dream Weaver",
+    "author": "Crimson",
+    "creators": ["Crimson"],
+    "verifier": "Solo_Creator",
+    "verification": "https://www.youtube.com/watch?v=wLM9tA0Xfz8",
+    "percentToQualify": "100",
+    "password": "2500",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
