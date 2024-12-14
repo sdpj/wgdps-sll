@@ -5,8 +5,18 @@
         "link": "https://www.youtube.com/@l2ghtbulb"
     },
     {
+        "role": "admin",
+        "name": "reject",
+        "link": "https://www.youtube.com/@axisreject"
+    },
+    {
+        "role": "helper",
+        "name": "Jon Helper",
+        "link": "https://www.youtube.com/@l2ghtbulb"
+    },
+    {
         "role": "dev",
-        "name": "Kit probjto (He Made the list)",
+        "name": "kit",
         "link": "https://www.youtube.com/@axisreject"
     }
 ]
