@@ -1,0 +1,18 @@
+{
+    "id": 23543,
+    "name": "im skye",
+    "author": "reject",
+    "creators": ["kit"],
+    "verifier": "Solo_Creator",
+    "verification": "https://youtu.be/tsbI10l3zfo",
+    "percentToQualify": "100",
+    "password": "1000",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
