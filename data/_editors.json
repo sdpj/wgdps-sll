@@ -1,22 +1,12 @@
 [
     {
         "role": "owner",
-        "name": "l2ghtbulb",
+        "name": "Jon Helper",
         "link": "https://www.youtube.com/@l2ghtbulb"
     },
     {
         "role": "admin",
         "name": "reject",
-        "link": "https://www.youtube.com/@axisreject"
-    },
-    {
-        "role": "helper",
-        "name": "Jon Helper",
-        "link": "https://www.youtube.com/@l2ghtbulb"
-    },
-    {
-        "role": "dev",
-        "name": "kit",
         "link": "https://www.youtube.com/@axisreject"
     }
 ]
