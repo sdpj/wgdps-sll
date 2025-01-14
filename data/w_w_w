@@ -1,0 +1,18 @@
+{
+    "id": 10530,
+    "name": "w w w",
+    "author": "6 6 6",
+    "creators": ["6 6 6"],
+    "verifier": "Verifier",
+    "verification": "https://www.youtube.com/watch?v=Vhv3NIFEnXc",
+    "percentToQualify": 3,
+    "password": "1440",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
