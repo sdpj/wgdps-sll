@@ -1,0 +1,18 @@
+{
+    "id": 14515,
+    "name": "staro menadess",
+    "author": "supertheblue",
+    "creators": ["supertheblue"],
+    "verifier": "Verifier",
+    "verification": "https://www.youtube.com/watch?v=t1OOdowl4L8",
+    "percentToQualify": 56,
+    "password": "720",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
