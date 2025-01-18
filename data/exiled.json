@@ -1,0 +1,18 @@
+{
+    "id": 12906,
+    "name": "Exiled",
+    "author": "SilentSubaruOG",
+    "creators": ["SilentSubaruOG"],
+    "verifier": "Verifier",
+    "verification": "https://www.youtube.com/watch?v=ppE4l8HP_no",
+    "percentToQualify": 56,
+    "password": "360",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
