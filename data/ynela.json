@@ -1,0 +1,18 @@
+{
+    "id": 13175,
+    "name": "Ynela proto54",
+    "author": "frski",
+    "creators": ["frski"],
+    "verifier": "Verifier",
+    "verification": "https://www.youtube.com/watch?v=7ev5oO6WzOU",
+    "percentToQualify": 56,
+    "password": "360",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
