@@ -1,0 +1,18 @@
+{
+    "id": 23944,
+    "name": "vic hard clicks",
+    "author": "xslopes",
+    "creators": ["xslopes"],
+    "verifier": "Verifier",
+    "verification": "https://youtu.be/qYBjQ8RDgv4?si=D_78_oBWk7PkP8OQ",
+    "percentToQualify": 56,
+    "password": "240",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
