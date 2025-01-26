@@ -1,0 +1,18 @@
+{
+    "id": 22867,
+    "name": "Chromatic Function",
+    "author": "Kalavian",
+    "creators": ["Kalavian"],
+    "verifier": "Verifier",
+    "verification": "https://www.youtube.com/watch?v=tjZYfEIw_fM",
+    "percentToQualify": 56,
+    "password": "480",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
