@@ -1,0 +1,18 @@
+{
+    "id": 25714,
+    "name": "yeah level",
+    "author": "reject",
+    "creators": ["reject"],
+    "verifier": "Verifier",
+    "verification": "https://www.youtube.com/watch?v=Y4yrxEW_VoE",
+    "percentToQualify": 56,
+    "password": "800",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

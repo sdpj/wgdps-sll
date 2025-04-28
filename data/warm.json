@@ -1,0 +1,18 @@
+{
+    "id": 25327,
+    "name": "warm",
+    "author": "reject",
+    "creators": ["1vy"],
+    "verifier": "Verifier",
+    "verification": "https://youtu.be/mhpcTts6igM",
+    "percentToQualify": 56,
+    "password": "1440",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
